@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraHardwareTriggering", "CameraHardwareTriggering\CameraHardwareTriggering.csproj", "{71BDE881-EDDF-4BD4-AC39-14D26A4D6CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BDE881-EDDF-4BD4-AC39-14D26A4D6CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BDE881-EDDF-4BD4-AC39-14D26A4D6CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BDE881-EDDF-4BD4-AC39-14D26A4D6CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BDE881-EDDF-4BD4-AC39-14D26A4D6CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CBC892-584E-4D81-8AA3-2A23FDA42F7A}
+	EndGlobalSection
+EndGlobal
